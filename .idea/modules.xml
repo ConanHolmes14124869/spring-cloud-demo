@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api-gateway.iml" filepath="$PROJECT_DIR$/.idea/modules/api-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api-gateway_main.iml" filepath="$PROJECT_DIR$/.idea/modules/api-gateway_main.iml" group="api-gateway" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api-gateway_test.iml" filepath="$PROJECT_DIR$/.idea/modules/api-gateway_test.iml" group="api-gateway" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.example-ribbon-consumer.iml" filepath="$PROJECT_DIR$/.idea/modules/com.example-ribbon-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.example-spring-cloud-demo.iml" filepath="$PROJECT_DIR$/.idea/modules/com.example-spring-cloud-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello-service/hello-service.iml" filepath="$PROJECT_DIR$/hello-service/hello-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hello-service_main.iml" filepath="$PROJECT_DIR$/.idea/modules/hello-service_main.iml" group="hello-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hello-service_test.iml" filepath="$PROJECT_DIR$/.idea/modules/hello-service_test.iml" group="hello-service" />
+      <module fileurl="file://$PROJECT_DIR$/hystrix-dashboard/hystrix-dashboard.iml" filepath="$PROJECT_DIR$/hystrix-dashboard/hystrix-dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hystrix-dashboard_main.iml" filepath="$PROJECT_DIR$/.idea/modules/hystrix-dashboard_main.iml" group="hystrix-dashboard" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hystrix-dashboard_test.iml" filepath="$PROJECT_DIR$/.idea/modules/hystrix-dashboard_test.iml" group="hystrix-dashboard" />
+      <module fileurl="file://$PROJECT_DIR$/ribbon-consumer/ribbon-consumer.iml" filepath="$PROJECT_DIR$/ribbon-consumer/ribbon-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ribbon-consumer_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ribbon-consumer_main.iml" group="ribbon-consumer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ribbon-consumer_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ribbon-consumer_test.iml" group="ribbon-consumer" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-demo/spring-cloud-demo.iml" filepath="$PROJECT_DIR$/spring-cloud-demo/spring-cloud-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-cloud-demo_main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-cloud-demo_main.iml" group="spring-cloud-demo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-cloud-demo_test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-cloud-demo_test.iml" group="spring-cloud-demo" />
+    </modules>
+  </component>
+</project>
